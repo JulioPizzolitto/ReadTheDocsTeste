@@ -1,5 +1,6 @@
-# ReadTheDocsTeste
-Teste de integração Read The Docs com o GitHub.
+Teste de integração Read The Docs com o GitHub
+----------------------------------------------
+
 
 # This is level 1 (article title)
 ## This is level 2
